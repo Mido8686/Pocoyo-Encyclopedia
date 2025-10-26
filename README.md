@@ -25,7 +25,6 @@ All pages are stored as `.md` files inside this repository.
 You can browse them directly through folders such as:
 
 - `characters/`
-- `episodes/`
 
 ---
 
