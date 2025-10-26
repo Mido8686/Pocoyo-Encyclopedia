@@ -22,9 +22,7 @@ including characters, episodes, behind-the-scenes information, and fan observati
 
 ## Structure
 All pages are stored as `.md` files inside this repository.  
-You can browse them directly through folders such as:
-
-- `characters/`
+You can browse them directly through folders.
 
 ---
 
