@@ -11,7 +11,7 @@ Gender: Male
 
 Species: Human
 
-Friends: Duck, Elly, Nina and Loula
+Friends: Pato, Elly, Nina and Loula
 
 First appearance: Umbrella Umbrella
 
