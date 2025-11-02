@@ -9,7 +9,7 @@ This is a fan-made, Pocoyo-related encyclopedia written entirely in Markdown (`.
 ---
 
 ## Status
-**This wiki is currently experimental.**  
+**This wiki is now archive.**  
 Content, layout, and structure are subject to change while development continues.
 
 ---
